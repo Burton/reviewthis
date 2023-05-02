@@ -1,0 +1,6 @@
+{from:yotpo 
+  from:medallia
+  from:birdeye
+  from:qemailserver
+  from:delighted.com
+  "Powered by Judge.me"} 
