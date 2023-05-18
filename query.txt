@@ -3,4 +3,5 @@
   from:birdeye
   from:qemailserver
   from:delighted.com
+  from:trustyou.com
   "Powered by Judge.me"} 
